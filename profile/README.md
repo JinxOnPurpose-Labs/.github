@@ -9,6 +9,7 @@ Useful tools, small experiments, and projects by **[Jinx](https://github.com/Jin
 **[PLU Hub](https://github.com/JinxOnPurpose-Labs/plu-hub)** is a shared produce and barcode reference for the web and Android, with on-device scanning and a private, session-only sales-floor checklist.
 
 - **[Open the website](https://plus.xanderxx.xyz)**
+- **[Releases & APKs](https://github.com/JinxOnPurpose-Labs/plu-hub/releases)**
 - **[Browse the source](https://github.com/JinxOnPurpose-Labs/plu-hub)**
 - **[Issues](https://github.com/JinxOnPurpose-Labs/plu-hub/issues)** · **[Open pull requests](https://github.com/JinxOnPurpose-Labs/plu-hub/pulls)**
 
