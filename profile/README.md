@@ -4,15 +4,16 @@
 
 Useful tools, small experiments, and projects by **[Jinx](https://github.com/JinxOnPurpose)**.
 
-## PLU Hub
+**[Visit the project hub](https://jinx.xanderxx.xyz/)**
 
-**[PLU Hub](https://github.com/JinxOnPurpose-Labs/plu-hub)** is a shared produce and barcode reference for the web and Android, with on-device scanning and a private, session-only sales-floor checklist.
+## Projects
 
-- **[Open the website](https://plus.xanderxx.xyz)**
-- **[Releases & APKs](https://github.com/JinxOnPurpose-Labs/plu-hub/releases)**
-- **[Browse the source](https://github.com/JinxOnPurpose-Labs/plu-hub)**
-- **[Issues](https://github.com/JinxOnPurpose-Labs/plu-hub/issues)** · **[Open pull requests](https://github.com/JinxOnPurpose-Labs/plu-hub/pulls)**
+- **[Pocket Wild](https://github.com/JinxOnPurpose-Labs/pocket-wild)**: a small browser ecosystem sandbox. **[Play](https://jinx.xanderxx.xyz/pocket-wild/)**
+- **[PLU Hub](https://github.com/JinxOnPurpose-Labs/plu-hub)**: a produce-code reference for the web and Android. **[Website](https://plus.xanderxx.xyz/)** · **[Issues and limitations](https://github.com/JinxOnPurpose-Labs/plu-hub/issues)**
+- **[Jinx project hub](https://github.com/JinxOnPurpose-Labs/jinx-hub)**: the home for the browser experiments.
+
+For current setup instructions, downloads and known limitations, use each project's README, releases and issue tracker rather than a copied version list here.
 
 ## Working here
 
-Keep changes focused and test what you change. Never commit credentials, private checklist contents, personal backups, or production data. A running build is useful evidence, not proof that a physical device or checkout scanner works.
+Keep changes focused and test what you change. Never commit credentials, private user data, personal backups, or production data. Update documentation and project links as part of the change, not as an optional follow-up.
